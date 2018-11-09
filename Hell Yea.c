@@ -11,11 +11,15 @@ int main()
   
   /*switch(x)
     case 1:
+    
+      printf("Wybrales dodawanie, wprowadz 2 liczby \n");
             '+': x=a+b; 
                   printf("Wynik: %d\n", x);
              break;
   
   case 2:
+  
+      printf("Wybrales odejmowanie, wprowadz 2 liczby \n);
             '-': x=a-b;
                   printf("Wynik: %d\n", x);
              break;
@@ -25,15 +29,15 @@ int main()
   case 4:
   
   case 5:
-      printf("Wybrales potegowanie, wprowadz dwie liczby\n");
-      scanf("%i %i",liczba1, liczba2);
-      printf(liczba1^liczba2);
+  printf("Wybrales potegowanie, wprowadz dwie liczby\n");
+  scanf("%i %i",liczba1, liczba2);
+  printf(liczba1^liczba2);
   break;
   case 6:
-    printf("Wybrales pierwiastkowanie, wprowadz dwie liczby\n");
-    scanf("%i %i",liczba1, liczba2);
-    liczba2=liczba2^(-1);
-    printf(liczba1^liczba2);
+  printf("Wybrales pierwiastkowanie, wprowadz dwie liczby\n");
+ scanf("%i %i",liczba1, liczba2);
+ liczba2=liczba2^(-1);
+ printf(liczba1^liczba2);
  break;
   */
   return 0;
